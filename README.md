@@ -1,5 +1,7 @@
 # Hospitality Insights-PowerBI
 
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZjM1YjZmYzQtMTAxZi00MGU2LTlmMmEtYzgwZjVhNmI3YzNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection
+
 ## Project Overview:
 AtliQ Grands owns multiple 5-star hotels across India and has been in the hospitality industry for the past 20 years. Due to strategic moves from competitors and ineffective decision-making in management, AtliQ Grands are losing market share and revenue in the luxury/business hotels category. As a Data Analyst, my objective was to regain their market share and revenue by creating dashboard aligned with stakeholder expectations. This project leveraged tools such as Microsoft Excel and Power BI to derive actionalble insights from real-world data provided by the organization.
 
