@@ -5,6 +5,16 @@ Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZjM1YjZmYzQtMTAxZi00
 ## Project Overview:
 AtliQ Grands owns multiple 5-star hotels across India and has been in the hospitality industry for the past 20 years. Due to strategic moves from competitors and ineffective decision-making in management, AtliQ Grands are losing market share and revenue in the luxury/business hotels category. As a Data Analyst, my objective was to regain their market share and revenue by creating dashboard aligned with stakeholder expectations. This project leveraged tools such as Microsoft Excel and Power BI to derive actionalble insights from real-world data provided by the organization.
 
+## KPIs
+- Revenue
+- RevPAR (Revenue per available room)
+- DSRN (Daily sellable room nights)
+- ADR (Average daily rate)
+- Realization %
+- Occupancy %
+- Total capacity
+- Total checked out, cancelled, and no-sow bookings
+
 ## Key Contribution:
 - Utilized Power Query to transform data into a format suitable for data analysis, reducing data processing time by 50%.
 - Utilized New Card visual for KPIs. The new card visual also shows the WoW (week over week) % change for all metrics. To make it more user-friendly, I added accent bars and corresponding arrows that indicate increases and decreases with appropriate colours, resulting in a 50% reduction in decision-making time.
